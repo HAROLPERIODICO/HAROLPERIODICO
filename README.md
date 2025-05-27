@@ -1,5 +1,8 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/logo_HD.png" width="300px"></h2>
+<img src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/logo_HD.png" width="300px">
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+  
 </div>
 
 <div align="center" width="50">
