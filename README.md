@@ -18,6 +18,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
 or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!</i> ♾️
 
 </div>
