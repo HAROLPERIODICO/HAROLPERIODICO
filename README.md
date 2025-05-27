@@ -36,14 +36,19 @@ or <a href="https://harolperiodico.github.io/HD_Froms"><b>email</b></a> me
 
 
 # Hey! 👋 I'm glad you're learning. #
-
-
-
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
 [<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+
+
+<p align="left">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
+
+
 
 <hr width="60%" >
 
@@ -73,10 +78,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pronto" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pronto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="pronto" height="30" width="40" /></a>
-<a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="pronto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="whatsapp" height="30" width="40" /></a>
 </div>
 
 
