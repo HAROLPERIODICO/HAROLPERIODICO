@@ -33,6 +33,7 @@ or <a href="https://harolperiodico.github.io/HD_Froms"><b>email</b></a> me
 
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -45,20 +46,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+
+
   
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 
 
+
+<div>
+<hr width="60%" >
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pronto" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pronto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="pronto" height="30" width="40" /></a>
 <a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="pronto" height="30" width="40" /></a>
-
-<hr width="60%" >
-
 **HD SOFTWARE SOLUTIONS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</div>
 
 Credits: 
 [mouredev](https://github.com/mouredev)      [Adam-pw](https://github.com/Adam-pw) 
