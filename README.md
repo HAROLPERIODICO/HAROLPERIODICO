@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h2>HD SOFTWARE SOLUTIONS</h2> <br>  ✨is a  _special_ ✨ repository because its `README.md` <br> (this file) appears on your GitHub profile.
+<h2>HD SOFTWARE SOLUTIONS</h2> <br>  ✨is a  _special_ ✨ repository because its ´README.md` <br> (this file) appears on your GitHub profile.
 </div>
 
 <div align="center">
